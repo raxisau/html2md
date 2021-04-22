@@ -1,4 +1,4 @@
-module bitbucket.org/jackbooted/html2markdown
+module github.com/raxisau/html2md
 
 go 1.15
 

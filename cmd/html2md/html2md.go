@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"bitbucket.org/jackbooted/html2markdown/internal/pkg/html2md"
+	"github.com/raxisau/html2md/internal/pkg/html2md"
 )
 
 func main() {
